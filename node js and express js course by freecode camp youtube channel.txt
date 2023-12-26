@@ -1,0 +1,4 @@
+Date: 23-12-2023 
+course link: https://www.youtube.com/watch?v=Oe421EPjeBE
+
+project idea: Personal Branding website that showcase the personal projects, achievements, products and courses.
